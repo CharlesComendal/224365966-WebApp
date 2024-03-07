@@ -1,0 +1,40 @@
+h1 {
+    color: seagreen;
+    padding-left: 150px;
+    font-size: large;
+    
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    padding-left: 250px;
+    color: rgb(78, 127, 78);
+    font-size: medium;
+    
+}
+
+li {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+i {
+   padding: auto;
+   font-size: large;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+
